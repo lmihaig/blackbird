@@ -1,20 +1,25 @@
 {
     "name": "blackbird",
     "displayName": "blackbird",
-    "description": "",
+    "description": "My personal theme for VSC",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.56.0"
+        "vscode": "^1.64.0"
     },
     "categories": [
         "Themes"
     ],
+    "license": "GPLv3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lmihaig/blackbird"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Blackbird",
+                "label": "blackbird",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Blackbird-color-theme.json"
+                "path": "./themes/blackbird-color-theme.json"
             }
         ]
     }
