@@ -9,6 +9,10 @@
     "categories": [
         "Themes"
     ],
+    "publisher": "lmihaig",
+    "author": {
+        "name": "Licu Mihai-George"
+    },
     "license": "GPLv3",
     "repository": {
         "type": "git",
